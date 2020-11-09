@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="ColorInt">
+    <body>
+      <group id="body">
+        <trans-unit id="Codeunit 485623306 - Method 4172465373 - NamedType 1133266570" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Purple</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Purple - Method GetColor - NamedType PurpleTxt</note>
+        </trans-unit>
+        <trans-unit id="EnumExtension 1116152120 - EnumValue 485623306 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Enum 2827249175">
+          <source>Purple</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">EnumExtension ColorExt - EnumValue Purple - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
